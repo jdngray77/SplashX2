@@ -1,0 +1,257 @@
+﻿Public Class SplashMap_Part1
+'====Map Info====
+Public MapDrawn(10, 20)
+
+    Public MapName = "SplashMap_Part1"
+    Public MapFamily = "Splash"
+    Public MapTrack = " CrimsonDrive "
+    Public StartX = 6
+    Public StartY = 1
+
+    'Active Components
+    Public exitSet(9, 19)
+    Public exitName(9, 19)
+
+    Public charSet(10, 20) As Object
+    Public Sub Initialise()
+        'Exits
+
+        'Intro
+        exitSet(3, 19) = " new SplashMap_part2"
+        exitName(3, 19) = "Intro"
+        'Intro
+        exitSet(4, 19) = " new SplashMap_part2"
+        exitName(4, 19) = "Intro"
+        'Character Set
+
+        'Row 0
+        charSet(0, 0) = "PathBlack"
+        charSet(0, 1) = "PathBlack"
+        charSet(0, 2) = "TreeSmall"
+        charSet(0, 3) = "TreeSmall"
+        charSet(0, 4) = "TreeSmall"
+        charSet(0, 5) = "TreeSmall"
+        charSet(0, 6) = "TreeSmall"
+        charSet(0, 7) = "TreeSmall"
+        charSet(0, 8) = "TreeSmall"
+        charSet(0, 9) = "TreeSmall"
+        charSet(0, 10) = "TreeSmall"
+        charSet(0, 11) = "TreeSmall"
+        charSet(0, 12) = "TreeSmall"
+        charSet(0, 13) = "TreeSmall"
+        charSet(0, 14) = "TreeSmall"
+        charSet(0, 15) = "TreeSmall"
+        charSet(0, 16) = "TreeSmall"
+        charSet(0, 17) = "TreeSmall"
+        charSet(0, 18) = "TreeSmall"
+        charSet(0, 19) = "TreeSmall"
+
+        'Row 1
+        charSet(1, 0) = "PathBlack"
+        charSet(1, 1) = "RockSmall"
+        charSet(1, 2) = "TreeSmall"
+        charSet(1, 3) = "TreeSmall"
+        charSet(1, 4) = "TreeSmall"
+        charSet(1, 5) = "TreeSmall"
+        charSet(1, 6) = "TreeSmall"
+        charSet(1, 7) = "TreeSmall"
+        charSet(1, 8) = "TreeSmall"
+        charSet(1, 9) = "TreeSmall"
+        charSet(1, 10) = "TreeSmall"
+        charSet(1, 11) = "TreeSmall"
+        charSet(1, 12) = "TreeSmall"
+        charSet(1, 13) = "TreeSmall"
+        charSet(1, 14) = "TreeSmall"
+        charSet(1, 15) = "TreeSmall"
+        charSet(1, 16) = "TreeSmall"
+        charSet(1, 17) = "TreeSmall"
+        charSet(1, 18) = "TreeSmall"
+        charSet(1, 19) = "PathBlack"
+
+        'Row 2
+        charSet(2, 0) = "PathBlack"
+        charSet(2, 1) = "PathBlack"
+        charSet(2, 2) = "PathBlack"
+        charSet(2, 3) = "RockBig"
+        charSet(2, 4) = "TreeSmall"
+        charSet(2, 5) = "TreeSmall"
+        charSet(2, 6) = "TreeSmall"
+        charSet(2, 7) = "TreeSmall"
+        charSet(2, 8) = "TreeSmall"
+        charSet(2, 9) = "TreeSmall"
+        charSet(2, 10) = "TreeSmall"
+        charSet(2, 11) = "TreeSmall"
+        charSet(2, 12) = "TreeSmall"
+        charSet(2, 13) = "TreeSmall"
+        charSet(2, 14) = "TreeSmall"
+        charSet(2, 15) = "TreeSmall"
+        charSet(2, 16) = "TreeSmall"
+        charSet(2, 17) = "TreeSmall"
+        charSet(2, 18) = "TreeSmall"
+        charSet(2, 19) = "PathBlack"
+
+        'Row 3
+        charSet(3, 0) = "PathBlack"
+        charSet(3, 1) = "PathBlack"
+        charSet(3, 2) = "PathBlack"
+        charSet(3, 3) = "PathBlack"
+        charSet(3, 4) = "PathBlack"
+        charSet(3, 5) = "PathAxe"
+        charSet(3, 6) = "TreeSmall"
+        charSet(3, 7) = "TreeSmall"
+        charSet(3, 8) = "TreeSmall"
+        charSet(3, 9) = "TreeSmall"
+        charSet(3, 10) = "TreeSmall"
+        charSet(3, 11) = "TreeSmall"
+        charSet(3, 12) = "TreeSmall"
+        charSet(3, 13) = "PathBlack"
+        charSet(3, 14) = "PathBlack"
+        charSet(3, 15) = "RockSmall"
+        charSet(3, 16) = "PathBlack"
+        charSet(3, 17) = "SavePoint"
+        charSet(3, 18) = "PathBlack"
+        charSet(3, 19) = "PathExit"
+
+        'Row 4
+        charSet(4, 0) = "PathBlack"
+        charSet(4, 1) = "PathBlack"
+        charSet(4, 2) = "PathBlack"
+        charSet(4, 3) = "PathBlack"
+        charSet(4, 4) = "PathBlack"
+        charSet(4, 5) = "PathBlack"
+        charSet(4, 6) = "TreeSmall"
+        charSet(4, 7) = "TreeSmall"
+        charSet(4, 8) = "TreeSmall"
+        charSet(4, 9) = "PathBlack"
+        charSet(4, 10) = "TreeSmall"
+        charSet(4, 11) = "TreeSmall"
+        charSet(4, 12) = "TreeSmall"
+        charSet(4, 13) = "PathBlack"
+        charSet(4, 14) = "PathBlack"
+        charSet(4, 15) = "PathBlack"
+        charSet(4, 16) = "PathBlack"
+        charSet(4, 17) = "PathBlack"
+        charSet(4, 18) = "PathBlack"
+        charSet(4, 19) = "PathExit"
+
+        'Row 5
+        charSet(5, 0) = "PathBlack"
+        charSet(5, 1) = "PathBlack"
+        charSet(5, 2) = "PathBlack"
+        charSet(5, 3) = "PathBlack"
+        charSet(5, 4) = "PathBlack"
+        charSet(5, 5) = "PathBlack"
+        charSet(5, 6) = "TreeSmall"
+        charSet(5, 7) = "PathBlack"
+        charSet(5, 8) = "PathBlack"
+        charSet(5, 9) = "RockSmall"
+        charSet(5, 10) = "PathBlack"
+        charSet(5, 11) = "PathBlack"
+        charSet(5, 12) = "PathBlack"
+        charSet(5, 13) = "PathBlack"
+        charSet(5, 14) = "PathBlack"
+        charSet(5, 15) = "PathBlack"
+        charSet(5, 16) = "TreeSmall"
+        charSet(5, 17) = "TreeSmall"
+        charSet(5, 18) = "TreeSmall"
+        charSet(5, 19) = "PathBlack"
+
+        'Row 6
+        charSet(6, 0) = "PathBlack"
+        charSet(6, 1) = "PathBlack"
+        charSet(6, 2) = "PathBlack"
+        charSet(6, 3) = "PathBlack"
+        charSet(6, 4) = "PathBlack"
+        charSet(6, 5) = "TreeSmall"
+        charSet(6, 6) = "TreeSmall"
+        charSet(6, 7) = "TreeSmall"
+        charSet(6, 8) = "TreeSmall"
+        charSet(6, 9) = "TreeSmall"
+        charSet(6, 10) = "TreeSmall"
+        charSet(6, 11) = "PathBlack"
+        charSet(6, 12) = "RockSmall"
+        charSet(6, 13) = "PathBlack"
+        charSet(6, 14) = "PathBlack"
+        charSet(6, 15) = "PathBlack"
+        charSet(6, 16) = "TreeSmall"
+        charSet(6, 17) = "TreeSmall"
+        charSet(6, 18) = "TreeSmall"
+        charSet(6, 19) = "PathBlack"
+
+        'Row 7
+        charSet(7, 0) = "PathBlack"
+        charSet(7, 1) = "PathBlack"
+        charSet(7, 2) = "PathBlack"
+        charSet(7, 3) = "PathBlack"
+        charSet(7, 4) = "RockSmall"
+        charSet(7, 5) = "TreeSmall"
+        charSet(7, 6) = "TreeSmall"
+        charSet(7, 7) = "TreeSmall"
+        charSet(7, 8) = "SandPlain"
+        charSet(7, 9) = "TreeSmall"
+        charSet(7, 10) = "TreeSmall"
+        charSet(7, 11) = "TreeSmall"
+        charSet(7, 12) = "TreeSmall"
+        charSet(7, 13) = "TreeSmall"
+        charSet(7, 14) = "TreeSmall"
+        charSet(7, 15) = "TreeSmall"
+        charSet(7, 16) = "TreeSmall"
+        charSet(7, 17) = "TreeSmall"
+        charSet(7, 18) = "TreeSmall"
+        charSet(7, 19) = "TreeSmall"
+
+        'Row 8
+        charSet(8, 0) = "PathBlack"
+        charSet(8, 1) = "PathBlack"
+        charSet(8, 2) = "PathBlack"
+        charSet(8, 3) = "PathBlack"
+        charSet(8, 4) = "TreeSmall"
+        charSet(8, 5) = "TreeSmall"
+        charSet(8, 6) = "TreeSmall"
+        charSet(8, 7) = "SandPlain"
+        charSet(8, 8) = "WaterNew"
+        charSet(8, 9) = "SandPlain"
+        charSet(8, 10) = "SandPlain"
+        charSet(8, 11) = "SandPlain"
+        charSet(8, 12) = "SandPlain"
+        charSet(8, 13) = "SandPlain"
+        charSet(8, 14) = "SandPlain"
+        charSet(8, 15) = "SandPlain"
+        charSet(8, 16) = "SandPlain"
+        charSet(8, 17) = "SandCactus"
+        charSet(8, 18) = "TreeSmall"
+        charSet(8, 19) = "TreeSmall"
+
+        'Row 9
+        charSet(9, 0) = "PathBlack"
+        charSet(9, 1) = "RockBig"
+        charSet(9, 2) = "PathBlack"
+        charSet(9, 3) = "TreeSmall"
+        charSet(9, 4) = "TreeSmall"
+        charSet(9, 5) = "TreeSmall"
+        charSet(9, 6) = "SandPlain"
+        charSet(9, 7) = "SandCactus"
+        charSet(9, 8) = "WaterNew"
+        charSet(9, 9) = "WaterNew"
+        charSet(9, 10) = "WaterNew"
+        charSet(9, 11) = "WaterNew"
+        charSet(9, 12) = "WaterNew"
+        charSet(9, 13) = "WaterNew"
+        charSet(9, 14) = "WaterNew"
+        charSet(9, 15) = "WaterNew"
+        charSet(9, 16) = "WaterNew"
+        charSet(9, 17) = "WaterNew"
+        charSet(9, 18) = "SandPlain"
+        charSet(9, 19) = "TreeSmall"
+    End Sub
+    Public Sub StoryLine(trigger)
+        Dim story As storyEngine = New storyEngine
+        Dim message As MessageEngine = New MessageEngine
+        Dim display As DisplayEngine = New DisplayEngine
+        Select Case game.StoryProgress
+            Case 1
+                If trigger = "Load" Then
+                End If
+        End select
+end sub
+end class

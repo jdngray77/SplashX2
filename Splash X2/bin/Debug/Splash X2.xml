@@ -1,0 +1,271 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Splash X2
+</name>
+</assembly>
+<members>
+<member name="T:Splash_X2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.AbandonedHopes">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.Apple">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.CrimsonDrive">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.EnemyBase">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.EnemyTurrets">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.FieldsofIce">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.GameOver">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.GameOverTrack">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.horizontal_slide_panel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.Hurt">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.Icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.Icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.idle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.idleLeft">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.Iron">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.LegalSplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.Message">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.MessagePrompt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.MissionOver">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.Notification">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.null">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.nullBlack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.PathAxe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.PathBlack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.PathExit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.PickAxe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.RockBig">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.RockSmall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.SandCactus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.SandPlain">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.saved">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.SaveNew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.SavePoint">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.Selecter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.Splash">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.SplashLogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.Stone">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.StoryPointerDown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.StoryPointerLeft">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.StoryPointerRight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.StoryPointerUp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.Tank">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.TreeNew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.TreeSmall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.WallWalk">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.WaterDown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.WaterNew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.WavesInFlight">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Splash_X2.My.Resources.Resources.WoodPlank">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

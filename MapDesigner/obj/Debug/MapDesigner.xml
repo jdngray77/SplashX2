@@ -1,0 +1,141 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MapDesigner
+</name>
+</assembly>
+<members>
+<member name="T:MapDesigner.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.EnemyBase">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.EnemyTurrets">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.PathAxe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.PathBlack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.PathExit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.PickAxe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.RockBig">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.RockSmall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.SandCactus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.SandPlain">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.saved">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.SaveNew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.SavePoint">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.Selecter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.StoryPointerDown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.StoryPointerLeft">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.StoryPointerRight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.StoryPointerUp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.TreeNew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.TreeSmall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.WaterDown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.WaterNew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MapDesigner.My.Resources.Resources.WoodPlank">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

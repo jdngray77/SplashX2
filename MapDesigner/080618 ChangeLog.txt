@@ -1,0 +1,39 @@
+==Debug==
+-Axe unaccessable fixed
+	at ComboListBox
+	at Index
+	Cause index unalignment
+
+-exported Exit set definitions fixed
+	at AddExit
+	at ExitNameArray
+	at ArrayEntryName
+	at Encapsulation
+	cause Name not defined as string
+
+- Draw player on load from sav
+	at Display Engine
+==Implementation==
+-Exit count implemented
+	at ExitCount
+	Cause UnIn
+
+
+-Exporter Auto close added
+
+==Alter==
+-Appearance change
+	cause Custom
+	CustCause Reduce fatigue
+	CustCause Looks kewl, ennit
+
+-Version roll back
+	cause Custom
+	CustCause Remove Auto Version definitions
+
+==Remove==
+-Clear and Save buttons removed
+	cause Custom
+	CustCause Redundant
+	at Previous implementation of auto save
+	at Previous addidtion clear bind to char

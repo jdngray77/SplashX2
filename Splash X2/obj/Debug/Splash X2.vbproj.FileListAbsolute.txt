@@ -1,0 +1,205 @@
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash X2.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash_X2.Game.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash_X2.About.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash_X2.death.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash_X2.FileWrite.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash_X2.SplashMenu.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash_X2.Resources.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash X2.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash X2.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\bin\Debug\Splash X2.exe.config
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\bin\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\bin\Debug\Splash X2.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\bin\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash X2.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash X2.vbproj.ResolveComReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash_X2.SplashBG.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash_X2.MapDesigner.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\bin\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\bin\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\1\Splash X2\Splash X2\obj\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\bin\Debug\Splash X2.exe.config
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\bin\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\bin\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\bin\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\bin\Debug\Splash X2.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\bin\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash X2.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash X2.vbproj.ResolveComReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash_X2.Game.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash_X2.About.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash_X2.death.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash_X2.FileWrite.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash_X2.MapDesigner.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash_X2.SplashBG.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash_X2.SplashMenu.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash_X2.Resources.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash X2.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash X2.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\2\Splash X2\obj\Debug\Splash X2.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\bin\Debug\Splash X2.exe.config
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\bin\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\bin\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\bin\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\bin\Debug\Splash X2.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\bin\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash X2.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash X2.vbproj.ResolveComReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash_X2.Game.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash_X2.About.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash_X2.death.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash_X2.FileWrite.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash_X2.MapDesigner.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash_X2.SplashBG.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash_X2.SplashMenu.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash_X2.Resources.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash X2.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash X2.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash X2.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\3\Splash X2\obj\Debug\Splash_X2.Inventory.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\bin\Debug\Splash X2.exe.config
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\bin\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\bin\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\bin\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\bin\Debug\Splash X2.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\bin\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash X2.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash X2.vbproj.ResolveComReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash_X2.Game.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash_X2.About.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash_X2.death.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash_X2.FileWrite.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash_X2.Inventory.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash_X2.MapDesigner.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash_X2.SplashBG.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash_X2.SplashMenu.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash_X2.Resources.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash X2.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash X2.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash X2.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash_X2.SaveFileCorroupted.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Splash X2\obj\Debug\Splash_X2.Form1.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\bin\Debug\Splash X2.exe.config
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\bin\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\bin\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\bin\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\bin\Debug\Splash X2.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\bin\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash X2.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash X2.vbproj.ResolveComReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash_X2.Form1.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash_X2.Game.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash_X2.About.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash_X2.death.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash_X2.FileWrite.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash_X2.Inventory.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash_X2.MapDesigner.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash_X2.SaveFileCorroupted.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash_X2.SplashBG.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash_X2.SplashMenu.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash_X2.Resources.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash X2.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash X2.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash X2.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\5\Splash X2\obj\Debug\Splash_X2.Crafting.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\bin\Debug\Splash X2.exe.config
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\bin\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\bin\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\bin\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\bin\Debug\Splash X2.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\bin\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash X2.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash X2.vbproj.ResolveComReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash_X2.Crafting.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash_X2.Form1.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash_X2.Game.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash_X2.About.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash_X2.death.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash_X2.FileWrite.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash_X2.Inventory.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash_X2.MapDesigner.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash_X2.SaveFileCorroupted.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash_X2.SplashBG.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash_X2.SplashMenu.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash_X2.Resources.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash X2.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash X2.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\6\Splash X2\obj\Debug\Splash X2.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\bin\Debug\Splash X2.exe.config
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\bin\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\bin\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\bin\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\bin\Debug\Splash X2.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\bin\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash X2.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash X2.vbproj.ResolveComReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash_X2.Crafting.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash_X2.Form1.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash_X2.About.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash_X2.death.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash_X2.FileWrite.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash_X2.Game.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash_X2.Inventory.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash_X2.MapDesigner.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash_X2.SaveFileCorroupted.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash_X2.SplashBG.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash_X2.SplashMenu.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash_X2.Resources.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash X2.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash X2.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash X2.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash X2.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash X2.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash X2.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\8\Splash X2\obj\Debug\Splash X2.pdb
