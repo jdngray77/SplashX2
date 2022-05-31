@@ -1,0 +1,25 @@
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Command Line\bin\Debug\Command Line.exe.config
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Command Line\bin\Debug\Command Line.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Command Line\bin\Debug\Command Line.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Command Line\bin\Debug\Command Line.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Command Line\obj\Debug\Command Line.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Command Line\obj\Debug\Command_Line.Form1.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Command Line\obj\Debug\Command_Line.Resources.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Command Line\obj\Debug\Command Line.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Command Line\obj\Debug\Command Line.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Command Line\obj\Debug\Command Line.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Command Line\obj\Debug\Command Line.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X2\4\Command Line\obj\Debug\Command Line.pdb
+D:\New folder\temp\Mixed\Splash\Development tools\Command Line\bin\Debug\Command Line.exe.config
+D:\New folder\temp\Mixed\Splash\Development tools\Command Line\bin\Debug\Command Line.exe
+D:\New folder\temp\Mixed\Splash\Development tools\Command Line\bin\Debug\Command Line.pdb
+D:\New folder\temp\Mixed\Splash\Development tools\Command Line\bin\Debug\Command Line.xml
+D:\New folder\temp\Mixed\Splash\Development tools\Command Line\obj\Debug\Command Line.vbproj.AssemblyReference.cache
+D:\New folder\temp\Mixed\Splash\Development tools\Command Line\obj\Debug\Command Line.vbproj.SuggestedBindingRedirects.cache
+D:\New folder\temp\Mixed\Splash\Development tools\Command Line\obj\Debug\Command_Line.Form1.resources
+D:\New folder\temp\Mixed\Splash\Development tools\Command Line\obj\Debug\Command_Line.Resources.resources
+D:\New folder\temp\Mixed\Splash\Development tools\Command Line\obj\Debug\Command Line.vbproj.GenerateResource.cache
+D:\New folder\temp\Mixed\Splash\Development tools\Command Line\obj\Debug\Command Line.vbproj.CoreCompileInputs.cache
+D:\New folder\temp\Mixed\Splash\Development tools\Command Line\obj\Debug\Command Line.exe
+D:\New folder\temp\Mixed\Splash\Development tools\Command Line\obj\Debug\Command Line.xml
+D:\New folder\temp\Mixed\Splash\Development tools\Command Line\obj\Debug\Command Line.pdb
